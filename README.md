@@ -30,7 +30,7 @@ In the project directory, you can run:
 ### `npm run tw:build`
 
 then run the app by opeing index.html file with an intended browser.
-Builds the app for production to the `dist` folder with ouput.css file.\
+Builds the ouput.css file in the `dist` folder with .\
 
 The page will reload when you make changes while in build state.\
 You may also see any lint errors in the console.
